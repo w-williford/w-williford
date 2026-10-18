@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Will Williford
 
-<!--
-**w-williford/w-williford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product and engineering lead in legal tech, based in Chicago. For the past decade I've helped build Transpire, evidence and transcript management software used by litigation teams for depositions, trial prep, and case analysis.
 
-Here are some ideas to get you started:
+My recent work focuses on AI: semantic and hybrid search, retrieval-augmented generation (RAG), and AI agent integrations using the Model Context Protocol (MCP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open source
+
+**[Antimatter](https://github.com/legistek/Antimatter)**: Antimatter is an MVVM-style framework that lets you write app logic and view models once in C#, run them on the server or in WebAssembly, and bind them to a React/TypeScript UI over SignalR with automatically generated TypeScript types. I co-developed it as the foundation of our web client, and we recently open-sourced it.
+
+## Tech I work with
+
+C# / .NET · TypeScript / React · SQL Server
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/william-williford/)
